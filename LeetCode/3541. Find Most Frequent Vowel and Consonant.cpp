@@ -19,3 +19,4 @@ public:
         return maxVowel+maxConsonant;
     }
 };
+//lol this came in leetcode daily 13 oct 25 ( i already sovled so just resubmitted )
